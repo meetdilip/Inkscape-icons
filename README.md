@@ -12,6 +12,8 @@ The original `hicolor` pack is single colour which has now been converted to dua
 
 ![orange icons Inkscape](https://raw.githubusercontent.com/meetdilip/Inkscape-icons/master/Inkscape%20icons%20orange%20github.png)
 
+![Dark Theme Inkscape](https://raw.githubusercontent.com/meetdilip/Inkscape-icons/master/Inkscape%20Dark%20Theme.png)
+
 To use them in Ubuntu and related distros,
 
 .config > inkscape > icon 
