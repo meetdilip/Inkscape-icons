@@ -20,6 +20,12 @@ place the icon pack folder inside. To activate the new icon theme, in Inkscape 1
 
 edit > preferences > Interface > Theme
 
+My personal choice for dark themes
+
+base colour : Grey - #B8B8B8
+
+warning colour : Orange - E7762C
+
 **Disclaimer** :
 
 Please don't blame me if something goes wrong. I take no responsibility. You can choose not to use this pack if you are not sure what to do. 
